@@ -1,0 +1,17 @@
+
+div.dogs {
+  float: left;
+}
+img {
+  width: 600px;
+  height: 400px;
+}
+
+div.cats {
+  float: right;
+}
+
+div.lizards {
+  float: none;
+  vertical-align: middle;
+}
